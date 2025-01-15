@@ -1,5 +1,5 @@
 # Pizza Sales Analysis Dashboard
-Pizza analysis.xlsx > https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/Pizza%20analysis.xlsx
+Creation/blob/main/Pizza%20Place%20Sales%20Analysis/Pizza%20analysis.xlsx
 Welcome to the Pizza Sales Analysis Dashboard project! This project demonstrates my proficiency in data analysis, Excel skills, and dashboard creation by providing actionable insights into sales data for a pizza business.
 
 ## Overview
@@ -14,8 +14,8 @@ This project involves:
 ## Key Features
 
 ### **Interactive Dashboards**
-- **[Dashboard 01](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Dashboard%2001.png)**
-- **[Dashboard 02](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Dashboard%2002.png)**
+- **![Dashboard 01](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Dashboard%2001.png)**
+- **![Dashboard 02](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Dashboard%2002.png)**
 
 These dashboards provide a comprehensive overview of sales performance, customer behavior, and operational trends.
 
