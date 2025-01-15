@@ -14,7 +14,9 @@ This project involves:
 ## Key Features
 
 ### **Interactive Dashboards**
+- **Dashboard part01** 
 - **![Dashboard 01](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Dashboard%2001.png)**
+- **Dashboard part02**
 - **![Dashboard 02](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Dashboard%2002.png)**
 
 These dashboards provide a comprehensive overview of sales performance, customer behavior, and operational trends.
