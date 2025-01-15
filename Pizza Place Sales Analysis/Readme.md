@@ -1,6 +1,5 @@
 # Pizza Sales Analysis Dashboard
-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/Pizza%20analysis.xlsx
-Welcome to the Pizza Sales Analysis Dashboard project! This project demonstrates my proficiency in data analysis, Excel skills, and dashboard creation by providing actionable insights into sales data for a pizza business.
+**Welcome to the Pizza Sales Analysis Dashboard project! This project demonstrates my proficiency in data analysis, Excel skills, and dashboard creation by providing actionable insights into sales data for a pizza business.**
 
 ## Overview
 This project involves:
