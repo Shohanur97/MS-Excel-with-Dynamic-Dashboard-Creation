@@ -92,7 +92,7 @@ Created dynamic charts to visualize trends and performance, including:
 ---
 
 ## Project Details
-- Repository: ![Pizza Sales Analysis](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation)
+- Repository: [Pizza Sales Analysis](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation)
 - Author: Md Shohanur Rahman
 - Email: shohanur97@outlook.com
 - LinkedIn: [Md Shohanur Rahman](https://www.linkedin.com/in/shohanur-r-shamim/)
