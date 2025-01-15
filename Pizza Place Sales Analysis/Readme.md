@@ -51,18 +51,19 @@ Key questions addressed:
 - **![View Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Peek%20Hours.png)**
 
 ### **Category and Size Analysis**
-1. **Sales by Pizza Category**:
+1. **Sales by Pizza Category**:**Create a pie chart displaying the sales distribution across different pizza categories. This visualization will offer insights into the popularity of each category and their contribution to total sales...**
 2. **![Pie Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/sales%20by%20pizaa%20category.png)**
-3. **Sales by Pizza Size**: **![Pie Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/sales%20by%20pizza%20size.png)**
+3. **Sales by Pizza Size**:**Generate a pie chart illustrating the percentage of sales contributed by different pizza sizes. This chart will provide insights into customer preferences for pizza sizes and their influence on overall sales.**
+4. **![Pie Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/sales%20by%20pizza%20size.png)**
 
 ### **Performance Highlights**
-- **Top 5 Bestsellers by Quantity**:
+- **Top 5 Bestsellers by Quantity**:**Create a column chart showcasing the top 5 best-selling pizzas based on total sales volume. This visualization will help identify the most popular pizza options.**
 - **![Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Top%205%20pizza%20sold%20by%20order.png)**
-- **Bottom 5 Performers by Quantity**:
+- **Bottom 5 Performers by Quantity**:**Create a column chart highlighting the bottom 5 worst-selling pizzas based on total sales volume. The visualization will help identify underperforming or less popular pizza options.**
 - **![Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Bottom%205%20selles%20by%20total%20pizza%20quantity.png)**
-- **Top 5 Bestsellers by Revenue**:
+- **Top 5 Bestsellers by Revenue**:** Create a column chart showcasing the top 5 pizzas hy revenue. This chart will identify the most profitable plaza options.**
 - **![Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Top%205%20pizza%20by%20revenuel.png)**
-- **Bottom 5 Performers by Revenue**:
+- **Bottom 5 Performers by Revenue**:**Create a column chart highlighting the bottom 5 pizzas by revenue. This chart will help identify the least profitable pizza options.**
 - **![Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Bottom%205%20pizz%20by%20revenue.png)**
 
 ---
