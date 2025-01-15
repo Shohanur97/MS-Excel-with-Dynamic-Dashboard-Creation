@@ -29,10 +29,10 @@ These dashboards provide a comprehensive overview of sales performance, customer
 ### **Recommendation Analysis**
 Key questions addressed:
 1. **Daily Customer Trends**: “How many customers do we have each day? Are there any peak hours?”
-   - Visualization: **[Peak Hours](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Peek%20Hours.png)**
+   - Visualization: **![Peak Hours](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Peek%20Hours.png)**
 2. **Order Size & Bestsellers**: “How many pizzas are typically in an order? What are the bestsellers?”
 3. **Revenue Analysis**: “How much money did we make this year? Are there seasonal trends in sales?”
-   - Visualization: **[Seasonality Trends](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Q4.png)**
+   - Visualization: **![Seasonality Trends](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Q4.png)**
 4. **Menu Optimization**: “Are there any pizzas we should take off the menu or promote more aggressively?”
 
 ---
@@ -40,21 +40,21 @@ Key questions addressed:
 ## Insights
 
 ### **Weekly and Monthly Trends**
-- **Weekly Trends**: **[View Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Weekly%20Trend.png)**
-- **Monthly Trends**: **[View Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Monthly%20Trend.png)**
+- **Weekly Trends**: **![View Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Weekly%20Trend.png)**
+- **Monthly Trends**: **![View Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Monthly%20Trend.png)**
 
 ### **Hourly Trends**
-- **Peak Order Hours**: **[View Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Peek%20Hours.png)**
+- **Peak Order Hours**: **![View Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Peek%20Hours.png)**
 
 ### **Category and Size Analysis**
-1. **Sales by Pizza Category**: **[Pie Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/sales%20by%20pizaa%20category.png)**
-2. **Sales by Pizza Size**: **[Pie Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/sales%20by%20pizza%20size.png)**
+1. **Sales by Pizza Category**: **![Pie Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/sales%20by%20pizaa%20category.png)**
+2. **Sales by Pizza Size**: **![Pie Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/sales%20by%20pizza%20size.png)**
 
 ### **Performance Highlights**
-- **Top 5 Bestsellers by Quantity**: **[Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Top%205%20pizza%20sold%20by%20order.png)**
-- **Bottom 5 Performers by Quantity**: **[Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Bottom%205%20selles%20by%20total%20pizza%20quantity.png)**
-- **Top 5 Bestsellers by Revenue**: **[Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Top%205%20pizza%20by%20revenuel.png)**
-- **Bottom 5 Performers by Revenue**: **[Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Bottom%205%20pizz%20by%20revenue.png)**
+- **Top 5 Bestsellers by Quantity**: **![Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Top%205%20pizza%20sold%20by%20order.png)**
+- **Bottom 5 Performers by Quantity**: **![Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Bottom%205%20selles%20by%20total%20pizza%20quantity.png)**
+- **Top 5 Bestsellers by Revenue**: **![Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Top%205%20pizza%20by%20revenuel.png)**
+- **Bottom 5 Performers by Revenue**: **![Column Chart](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Pizza%20Place%20Sales%20Analysis/immage/Bottom%205%20pizz%20by%20revenue.png)**
 
 ---
 
@@ -82,7 +82,7 @@ Created dynamic charts to visualize trends and performance, including:
 ---
 
 ## Project Details
-- Repository: [Pizza Sales Analysis](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation)
+- Repository: ![Pizza Sales Analysis](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation)
 - Author: Md Shohanur Rahman
 - Email: shohanur97@outlook.com
 - LinkedIn: [Md Shohanur Rahman](https://www.linkedin.com/in/shohanur-r-shamim/)
