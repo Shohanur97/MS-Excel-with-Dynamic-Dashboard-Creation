@@ -2,7 +2,7 @@
 ## Dashboard Screenshots
 
  **Overview Screen**
- ![image alt] (https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Sales%20Order%20Analysis%20Dashboard/Sale%20Order%20analysis%20dashboard.png)
+[image alt](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Sales%20Order%20Analysis%20Dashboard/Sale%20Order%20analysis%20dashboard.png)
 ## Overview
 The **Sales Order Analysis Dashboard** is an interactive Excel-based tool designed to provide comprehensive insights into sales and profit performance. This project focuses on analyzing historical data, identifying trends, and offering actionable insights using visualizations and pivot table analysis. It is part of my portfolio to demonstrate my skills in data analysis and dashboard creation.
 
