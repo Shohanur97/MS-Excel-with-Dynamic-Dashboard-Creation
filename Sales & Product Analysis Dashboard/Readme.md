@@ -30,5 +30,5 @@ This image showcases a **Sales & Product Analysis Dashboard** in Excel. Here's a
    - The charts emphasize actionable insights, such as identifying top-performing months, products, countries, and sales representatives.
    - The slicer filter adds interactivity, allowing dynamic data exploration.
 
-Would you like a deeper analysis, specific recommendations, or help recreating this dashboard?
+
 
