@@ -1,6 +1,6 @@
 This image showcases a **Sales & Product Analysis Dashboard** in Excel. Here's a breakdown of its key sections:
 [im]
-![image alt](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Sales%20Order%20Analysis%20Dashboard/Sale%20Order%20analysis%20dashboard.png)
+![image alt](https://github.com/Shohanur97/MS-Excel-with-Dynamic-Dashboard-Creation/blob/main/Sales%20%26%20Product%20Analysis%20Dashboard/Sales_Report%20-%20Excel%201_18_2025%206_32_50%20PM.png)
 ### 1. **Filters Section (Top Left)**
    - **Months (Date)**: Provides a slicer for filtering sales data by month, enabling users to analyze data for specific periods.
 
